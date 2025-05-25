@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    width: 25vw;
+    padding: 12px;
+
+}
+.right{
+    width: 75vw;
+}
+.home ul li{
+    display: flex;
+    gap: 15px;
+    width: 16px;
+    list-style: none;
+}
+.invert{
+    filter: invert(1);
+}
+.rounded{
+    border-radius:7px;
+}
+.home ul{
+    margin-top: 2px;
+}
